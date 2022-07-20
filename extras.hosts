@@ -2,6 +2,9 @@
  redirector.googlevideo.com
 
 # Facebook
+ b-graph.facebook.com
+ connect.facebook.com
+ edge-mqtt.facebook.com
  graph.facebook.com
  graph.facebook.net
  graph.instagram.com
@@ -9,6 +12,7 @@
  mqtt-mini.facebook.com
 
 # Microsoft/Windows
+ cs.dds.microsoft.com
  self.events.data.microsoft.com
  settings-win.data.microsoft.com
  vortex.data.microsoft.com
