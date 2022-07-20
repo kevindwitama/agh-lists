@@ -9,6 +9,7 @@
  mqtt-mini.facebook.com
 
 # Microsoft/Windows
+ self.events.data.microsoft.com
  settings-win.data.microsoft.com
  vortex.data.microsoft.com
 
