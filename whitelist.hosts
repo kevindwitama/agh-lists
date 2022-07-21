@@ -7,22 +7,12 @@
 @@||www.msftncsi.com^
 
 # Windows 10 update servers
-@@||akadns.net^
-@@||au.v4.download.windowsupdate.com^
-@@||ctldl.windowsupdate.com^
-@@||displaycatalog.mp.microsoft.com^
-@@||download.windowsupdate.com^
-@@||emdl.ws.microsoft.com^
-@@||fe2.update.microsoft.com.akadns.net^
-@@||fe2.update.microsoft.com^
+# https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
 @@||fe3.delivery.dsp.mp.microsoft.com^.nsatc.net^
 @@||fe3.delivery.mp.microsoft.com^
-@@||microsoftwindowsupdate.net^
 @@||sls.update.microsoft.com^
 @@||sls.update.microsoft.com^.akadns.net^
-@@||statsfe2.update.microsoft.com^.akadns.net^
 @@||tlu.dl.delivery.mp.microsoft.com^
-@@||windowsupdate.com^
 
 # for windows live login
 @@||akadns6.net^
