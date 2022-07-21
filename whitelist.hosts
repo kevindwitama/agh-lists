@@ -7,28 +7,28 @@
 @@||www.msftncsi.com^
 
 # Windows 10 update servers
-@@||akadns.com^
+@@||akadns.net^
 @@||au.v4.download.windowsupdate.com^
 @@||ctldl.windowsupdate.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||download.windowsupdate.com^
 @@||emdl.ws.microsoft.com^
+@@||fe2.update.microsoft.com.akadns.net^
 @@||fe2.update.microsoft.com^
-@@||fe2.update.microsoft.com^.akadns.com^
-@@||fe3.delivery.dsp.mp.microsoft.com^.nsatc.com^
+@@||fe3.delivery.dsp.mp.microsoft.com^.nsatc.net^
 @@||fe3.delivery.mp.microsoft.com^
-@@||microsoftwindowsupdate.com^
+@@||microsoftwindowsupdate.net^
 @@||sls.update.microsoft.com^
-@@||sls.update.microsoft.com^.akadns.com^
-@@||statsfe2.update.microsoft.com^.akadns.com^
+@@||sls.update.microsoft.com^.akadns.net^
+@@||statsfe2.update.microsoft.com^.akadns.net^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||windowsupdate.com^
 
 # for windows live login
-@@||akadns6.com^
+@@||akadns6.net^
 @@||live.com^
 @@||login.live.com^
-@@||msa.akadns6.com^
+@@||msa.akadns6.net^
 
 # For xbox achievements
 @@||v10.events.data.microsoft.com^
@@ -53,10 +53,10 @@
 @@||update.miui.com^
 
 # Steam store related
-@@||steamstore-a.akamaihd.com^
+@@||steamstore-a.akamaihd.net^
 @@||test.steampowered.com^
 
 # Misc
-@@||bm5cdn.azureedge.com^
+@@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
 @@||pages.autodesk.com^
