@@ -1,0 +1,14 @@
+! Snapchat
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 snapads.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 pica.aeonlucid.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 geofilters-api.snapchat.com
+0.0.0.0 cognac-prod.appspot.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 tr.snapchat.com
