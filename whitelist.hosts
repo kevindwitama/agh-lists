@@ -1,8 +1,6 @@
 # For windows internet connection detection. Some windows apps require a valid OS online state for them to operate.
 @@||ipv6.msftconnecttest.com^
 @@||ipv6.msftncsi.com^
-@@||msftconnecttest.com^
-@@||msftncsi.com^
 @@||www.msftconnecttest.com^
 @@||www.msftncsi.com^
 
@@ -15,8 +13,6 @@
 @@||tlu.dl.delivery.mp.microsoft.com^
 
 # for windows live login
-@@||akadns6.net^
-@@||live.com^
 @@||login.live.com^
 @@||msa.akadns6.net^
 
