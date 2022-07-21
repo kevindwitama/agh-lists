@@ -1,12 +1,13 @@
 # For windows internet connection detection. Some windows apps require a valid OS online state for them to operate.
-@@||www.msftncsi.com^
+@@||ipv6.msftconnecttest.com^
 @@||ipv6.msftncsi.com^
+@@||msftconnecttest.com^
 @@||msftncsi.com^
 @@||www.msftconnecttest.com^
-@@||ipv6.msftconnecttest.com^
-@@||msftconnecttest.com^
+@@||www.msftncsi.com^
 
 # Windows 10 update servers
+@@||akadns.com^
 @@||au.v4.download.windowsupdate.com^
 @@||ctldl.windowsupdate.com^
 @@||displaycatalog.mp.microsoft.com^
@@ -22,63 +23,41 @@
 @@||statsfe2.update.microsoft.com^.akadns.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||windowsupdate.com^
-@@||akadns.com^
 
 # for windows live login
-@@||msa.akadns6.com^
 @@||akadns6.com^
-@@||login.live.com^
 @@||live.com^
+@@||login.live.com^
+@@||msa.akadns6.com^
 
 # For xbox achievements
-@@||assets1.xboxlive.com^
-@@||xbox.ipv6.microsoft.com^
-@@||device.auth.xboxlive.com^
-@@||title.mgt.xboxlive.com^
-@@||xsts.auth.xboxlive.com^
-@@||title.auth.xboxlive.com^
-@@||attestation.xboxlive.com^
-@@||xboxexperiencesprod.experimentation.xboxlive.com^
-@@||xflight.xboxlive.com^
-@@||cert.mgt.xboxlive.com^
-@@||xkms.xbolive.com^
-@@||def-vef.xboxlive.com^
-@@||notify.xboxlive.com^
-@@||help.ui.xboxlive.com^
-@@||licensing.xboxlive.com^
-@@||eds.xboxlive.com^
-@@||www.xboxlive.com^
 @@||v10.events.data.microsoft.com^
-@@||us-v10.events.data.microsoft.com^
-@@||eu-v10.events.data.microsoft.com^
 @@||v20.events.data.microsoft.com^
-@@||us-v20.events.data.microsoft.com^
-@@||eu-v20.events.data.microsoft.com^
 
 # Google (these domains are not used for tracking)
 @@||analytics.google.com^
 
 # Other google
-@@||fonts.gstatic.com^
 @@||firebaseinstallations.googleapis.com^
-@@||userlocation.googleapis.com^
+@@||fonts.gstatic.com^
 @@||s.youtube.com^
+@@||userlocation.googleapis.com^
 
 # Instagram images
 @@||i.instagram.com^
 
 # Xiaomi update related
 @@||account.xiaomi.com^
-@@||global.market.xiaomi.com^
-@@||update.miui.com^
-@@||update.intl.miui.com^
 @@||api.io.mi.com^
+@@||global.market.xiaomi.com^
+@@||update.intl.miui.com^
+@@||update.miui.com^
 
 # Steam store related
 @@||steamstore-a.akamaihd.com^
 @@||test.steampowered.com^
 
 # Misc
-@@||cdn.ravenjs.com^
 @@||bm5cdn.azureedge.com^
+@@||cdn.ravenjs.com^
 @@||pages.autodesk.com^

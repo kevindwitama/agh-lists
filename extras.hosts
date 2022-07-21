@@ -5,19 +5,40 @@
 @@||b-graph.facebook.com^
 @@||connect.facebook.com^
 @@||edge-mqtt.facebook.com^
+@@||graph.accountkit.com^
 @@||graph.facebook.com^
 @@||graph.facebook.net^
 @@||graph.instagram.com^
-@@||graph.accountkit.com^
 @@||mqtt-mini.facebook.com^
 
 # Microsoft/Windows
+@@||assets1.xboxlive.com^
+@@||attestation.xboxlive.com^
+@@||cert.mgt.xboxlive.com^
 @@||cs.dds.microsoft.com^
+@@||def-vef.xboxlive.com^
+@@||device.auth.xboxlive.com^
+@@||eds.xboxlive.com^
+@@||eu-v10.events.data.microsoft.com^
+@@||eu-v20.events.data.microsoft.com^
+@@||help.ui.xboxlive.com^
+@@||licensing.xboxlive.com^
+@@||notify.xboxlive.com^
 @@||self.events.data.microsoft.com^
 @@||settings-win.data.microsoft.com^
+@@||title.auth.xboxlive.com^
+@@||title.mgt.xboxlive.com^
+@@||us-v10.events.data.microsoft.com^
+@@||us-v20.events.data.microsoft.com^
 @@||vortex.data.microsoft.com^
+@@||www.xboxlive.com^
+@@||xbox.ipv6.microsoft.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||xkms.xbolive.com^
+@@||xsts.auth.xboxlive.com^
 
 # Xiaomi related
-@@||us.find.api.micloud.xiaomi.net^
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
+@@||us.find.api.micloud.xiaomi.net^
