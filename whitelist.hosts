@@ -34,12 +34,11 @@
 @@||v10.events.data.microsoft.com^
 @@||v20.events.data.microsoft.com^
 
-# Google (these domains are not used for tracking)
+# Useful Google
 @@||analytics.google.com^
-
-# Other google
 @@||firebaseinstallations.googleapis.com^
 @@||fonts.gstatic.com^
+@@||redirector.googlevideo.com^
 @@||s.youtube.com^
 @@||userlocation.googleapis.com^
 
