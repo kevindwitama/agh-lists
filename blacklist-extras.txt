@@ -1,0 +1,2 @@
+# Facebook
+0.0.0.0 edge-mqtt.facebook.com
