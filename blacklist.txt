@@ -4,7 +4,6 @@
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 snapads.com
 0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 pica.aeonlucid.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 geofilters-api.snapchat.com
 0.0.0.0 cognac-prod.appspot.com
