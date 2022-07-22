@@ -31,6 +31,9 @@
 # Instagram images
 @@||i.instagram.com^
 
+# Spotify
+@@||api-partner.spotify.com^
+
 # Xiaomi update related
 @@||account.xiaomi.com^
 @@||api.io.mi.com^
