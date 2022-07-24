@@ -6,10 +6,10 @@
 
 # Windows 10 update servers
 # https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
-@@||fe3.delivery.dsp.mp.microsoft.com^.nsatc.net^
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
 @@||fe3.delivery.mp.microsoft.com^
 @@||sls.update.microsoft.com^
-@@||sls.update.microsoft.com^.akadns.net^
+@@||sls.update.microsoft.com.akadns.net^
 @@||tlu.dl.delivery.mp.microsoft.com^
 
 # for windows live login
