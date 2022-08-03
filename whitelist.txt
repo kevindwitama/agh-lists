@@ -50,3 +50,4 @@
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
 @@||pages.autodesk.com^
+@@||ipinfo.io^
