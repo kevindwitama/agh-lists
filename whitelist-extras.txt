@@ -6,7 +6,6 @@
 @@||graph.facebook.com^
 @@||graph.facebook.net^
 @@||graph.instagram.com^
-@@||l.instagram.com^
 @@||mqtt-mini.facebook.com^
 
 # Microsoft/Windows
