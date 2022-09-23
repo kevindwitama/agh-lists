@@ -49,3 +49,7 @@
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
 @@||us.find.api.micloud.xiaomi.net^
+
+# Xiaomi themes
+@@||api.zhuti.intl.xiaomi.com^$important
+@@||thm.market.intl.xiaomi.com^$important
