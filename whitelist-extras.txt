@@ -49,7 +49,8 @@
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
 @@||us.find.api.micloud.xiaomi.net^
+@@||eu.api.miwifi.com^
 
 # Xiaomi themes
-@@||api.zhuti.intl.xiaomi.com^$important
-@@||thm.market.intl.xiaomi.com^$important
+@@||api.zhuti.intl.xiaomi.com^
+@@||thm.market.intl.xiaomi.com^
