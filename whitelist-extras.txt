@@ -49,6 +49,9 @@
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
 @@||us.find.api.micloud.xiaomi.net^
+
+# Mi Wifi
+@@||cdn.awsde0-fusion.fds.api.mi-img.com^
 @@||eu.api.miwifi.com^
 
 # Xiaomi themes
