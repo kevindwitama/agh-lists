@@ -13,7 +13,7 @@
 0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 snapchat-proxy.appspot.com
-0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 adsapi.snapchat.com0.0.0.0 asia-southeast1-gcp.api.snapchat.com0.0.0.0 aws-cf.api.snapchat.com0.0.0.0 euw.adserver.snapads.com0.0.0.0 ads-interfaces.sc-cdn.net0.0.0.0 ase.adserver.snapads.com0.0.0.0 use.adserver.snapads.com0.0.0.0 us-east1-aws.api.snapchat.com
 
 # Minecraft related
 # https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
