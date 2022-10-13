@@ -53,7 +53,8 @@
 # Mi Wifi
 @@||cdn.awsde0-fusion.fds.api.mi-img.com^
 @@||eu.api.miwifi.com^
+@@||sg.api.miwifi.com^
 
 # Xiaomi themes
-@@||api.zhuti.intl.xiaomi.com^
-@@||thm.market.intl.xiaomi.com^
+# @@||api.zhuti.intl.xiaomi.com^
+# @@||thm.market.intl.xiaomi.com^
