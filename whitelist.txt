@@ -28,6 +28,8 @@
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
 @@||userlocation.googleapis.com^
+@@||geller-pa.googleapis.com^$important
+
 
 # Instagram images
 @@||i.instagram.com^
