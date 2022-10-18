@@ -49,6 +49,11 @@
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
 @@||us.find.api.micloud.xiaomi.net^
+# @@||api.micloud.xiaomi.net^
+# @@||api.device.xiaomi.net^
+# @@||api.g.micloud.xiaomi.net^
+@@||jupiter.intl.sys.miui.com^
+@@||file.market.xiaomi.com^
 
 # Mi Wifi
 @@||cdn.awsde0-fusion.fds.api.mi-img.com^
