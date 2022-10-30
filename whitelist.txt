@@ -15,6 +15,7 @@
 # for windows live login
 @@||login.live.com^
 @@||msa.akadns6.net^
+@@||login.microsoftonline.com^
 
 # For xbox achievements
 @@||v10.events.data.microsoft.com^
