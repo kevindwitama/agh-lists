@@ -1,1 +1,2 @@
 # Xiaomi
+0.0.0.0 sg.api.miwifi.com
