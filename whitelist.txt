@@ -31,7 +31,6 @@
 @@||userlocation.googleapis.com^
 @@||geller-pa.googleapis.com^$important
 
-
 # Instagram images
 @@||i.instagram.com^
 @@||l.instagram.com^
@@ -50,6 +49,9 @@
 @@||steamstore-a.akamaihd.net^
 @@||test.steampowered.com^
 
+# Line
+@@||obs.line-scdn.net^
+
 # Misc
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
@@ -57,3 +59,4 @@
 @@||ipinfo.io^
 @@||tokopedia.link^
 @@||t.co^
+@@||tb-lb.sb-cd.com^
