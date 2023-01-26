@@ -1,2 +1,8 @@
 # Xiaomi
 0.0.0.0 sg.api.miwifi.com
+
+# Line
+0.0.0.0 jp-col-tcp.nelo.linecorp.com
+
+# Misc
+0.0.0.0 ads11.textra.me
