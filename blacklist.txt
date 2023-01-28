@@ -1,3 +1,6 @@
+# Google
+0.0.0.0 dns.google
+
 # Snapchat
 0.0.0.0 analytics.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
