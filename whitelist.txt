@@ -60,3 +60,4 @@
 @@||tokopedia.link^
 @@||t.co^
 @@||tb-lb.sb-cd.com^
+@@||questant.jp^
