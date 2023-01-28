@@ -1,3 +1,6 @@
+# Google
+@@||analytics.google.com^
+
 # Facebook
 @@||b-graph.facebook.com^
 @@||connect.facebook.com^

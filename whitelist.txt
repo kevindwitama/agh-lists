@@ -22,7 +22,6 @@
 @@||v20.events.data.microsoft.com^
 
 # Useful Google
-@@||analytics.google.com^
 @@||connectivitycheck.gstatic.com^
 @@||firebaseinstallations.googleapis.com^
 @@||fonts.gstatic.com^
