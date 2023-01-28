@@ -24,7 +24,7 @@
 # Useful Google
 @@||analytics.google.com^
 @@||connectivitycheck.gstatic.com^
-# @@||firebaseinstallations.googleapis.com^
+@@||firebaseinstallations.googleapis.com^
 @@||fonts.gstatic.com^
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
