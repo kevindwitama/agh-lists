@@ -63,3 +63,6 @@
 # Xiaomi themes
 # @@||api.zhuti.intl.xiaomi.com^
 # @@||thm.market.intl.xiaomi.com^
+
+# Misc
+@@||questant.jp^
