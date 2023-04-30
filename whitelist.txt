@@ -51,6 +51,14 @@
 # Line
 @@||obs.line-scdn.net^
 
+# Pushbullet
+@@||api.pushbullet.com^
+@@||api2.pushbullet.com^
+@@||static.pushbullet.com^
+@@||stream.pushbullet.com^
+@@||stream-android.pushbullet.com^
+@@||update.pushbullet.com^
+
 # Misc
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
