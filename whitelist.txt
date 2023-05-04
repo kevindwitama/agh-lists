@@ -17,6 +17,9 @@
 @@||msa.akadns6.net^
 @@||login.microsoftonline.com^
 
+# other windows
+@@||uhf.microsoft.com^ # microsoft cookie compliance
+
 # For xbox achievements
 @@||v10.events.data.microsoft.com^
 @@||v20.events.data.microsoft.com^
