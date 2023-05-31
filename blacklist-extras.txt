@@ -4,5 +4,8 @@
 # Line
 0.0.0.0 jp-col-tcp.nelo.linecorp.com
 
+# Facebook/Meta
+0.0.0.0 graph-fallback.instagram.com
+
 # Misc
 0.0.0.0 ads11.textra.me
