@@ -67,3 +67,6 @@
 # @@||api.zhuti.intl.xiaomi.com^
 # @@||thm.market.intl.xiaomi.com^
 
+
+# Email Click-thru
+@@||link.futurism.com^
