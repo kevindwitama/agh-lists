@@ -52,9 +52,9 @@
 @@||account.xiaomi.com^
 @@||find.api.micloud.xiaomi.net^
 @@||us.find.api.micloud.xiaomi.net^
-# @@||api.micloud.xiaomi.net^
-# @@||api.device.xiaomi.net^
-# @@||api.g.micloud.xiaomi.net^
+@@||api.micloud.xiaomi.net^
+@@||api.device.xiaomi.net^
+@@||api.g.micloud.xiaomi.net^
 @@||jupiter.intl.sys.miui.com^
 @@||file.market.xiaomi.com^
 
@@ -64,5 +64,5 @@
 # @@||sg.api.miwifi.com^
 
 # Xiaomi themes
-# @@||api.zhuti.intl.xiaomi.com^
-# @@||thm.market.intl.xiaomi.com^
+@@||api.zhuti.intl.xiaomi.com^
+@@||thm.market.intl.xiaomi.com^
