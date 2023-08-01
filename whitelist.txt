@@ -39,6 +39,7 @@
 
 # Spotify
 @@||api-partner.spotify.com^
+@@||wl.spotify.com^
 
 # Xiaomi update related
 @@||account.xiaomi.com^
