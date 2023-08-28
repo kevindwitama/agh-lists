@@ -66,3 +66,6 @@
 # Xiaomi themes
 @@||api.zhuti.intl.xiaomi.com^
 @@||thm.market.intl.xiaomi.com^
+
+# Misc
+# @@||sdk.iad-06.braze.com^$
