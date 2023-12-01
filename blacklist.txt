@@ -15,7 +15,14 @@
 0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 snapchat-proxy.appspot.com
-0.0.0.0 adsapi.snapchat.com0.0.0.0 asia-southeast1-gcp.api.snapchat.com0.0.0.0 aws-cf.api.snapchat.com0.0.0.0 euw.adserver.snapads.com0.0.0.0 ads-interfaces.sc-cdn.net0.0.0.0 ase.adserver.snapads.com0.0.0.0 use.adserver.snapads.com0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 aws-cf.api.snapchat.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 ads-interfaces.sc-cdn.net
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+0.0.0.0 us-east1-aws.api.snapchat.com
 
 # Minecraft related
 # https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
@@ -34,3 +41,7 @@
 0.0.0.0 jenson.api.swiftkey.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 tigger-citadel.touchtype-fluency.com
+
+# Xiaomi
+0.0.0.0 sg.ots.io.mi.com
+0.0.0.0 sg.ot.io.mi.com
