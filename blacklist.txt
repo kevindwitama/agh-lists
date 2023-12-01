@@ -45,3 +45,4 @@
 # Xiaomi
 0.0.0.0 sg.ots.io.mi.com
 0.0.0.0 sg.ot.io.mi.com
+0.0.0.0 sg.api.miwifi.com
