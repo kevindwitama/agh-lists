@@ -67,5 +67,11 @@
 @@||api.zhuti.intl.xiaomi.com^
 @@||thm.market.intl.xiaomi.com^
 
+# Mailing lists
+@@||link.futurism.com^
+@@||maillist-manage.com^
+@@||wkycj-cmpzourl.maillist-manage.com^$important
+@@||links.airvisual.com^$important
+
 # Misc
 # @@||sdk.iad-06.braze.com^$

@@ -63,11 +63,6 @@
 @@||stream-android.pushbullet.com^
 @@||update.pushbullet.com^
 
-# Mailing lists
-@@||link.futurism.com^
-@@||maillist-manage.com^
-@@||wkycj-cmpzourl.maillist-manage.com^$
-
 # Misc
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
