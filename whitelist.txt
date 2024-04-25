@@ -74,4 +74,7 @@
 @@||questant.jp^
 @@||cr.hotio.dev^
 # @@||sdk.iad-06.braze.com^
-# @@||betanews.com^$
+# @@||betanews.com^
+
+# GoTo
+@@||app.gopay.co.id^

@@ -1,48 +1,55 @@
 # Google
-0.0.0.0 dns.google
+||dns.google^
 
 # Snapchat
-0.0.0.0 analytics.snapchat.com
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 snapads.com
-0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 cognac-prod.appspot.com
-0.0.0.0 ase.adserver.snapads.com
-0.0.0.0 tr.snapchat.com
-0.0.0.0 aw.sc-cdn.net
-0.0.0.0 gcs.sc-cdn.net
-0.0.0.0 gtq6.sct.sc-prod.net
-0.0.0.0 snapchat-proxy.appspot.com
-0.0.0.0 adsapi.snapchat.com
-0.0.0.0 asia-southeast1-gcp.api.snapchat.com
-0.0.0.0 aws-cf.api.snapchat.com
-0.0.0.0 euw.adserver.snapads.com
-0.0.0.0 ads-interfaces.sc-cdn.net
-0.0.0.0 ase.adserver.snapads.com
-0.0.0.0 use.adserver.snapads.com
-0.0.0.0 us-east1-aws.api.snapchat.com
+|analytics.snapchat.com^
+|app-analytics.snapchat.com^
+|usc.adserver.snapads.com^
+|snapads.com^
+|app-analytics-v2.snapchat.com^
+|usc.adserver.snapads.com^
+|cognac-prod.appspot.com^
+|ase.adserver.snapads.com^
+|tr.snapchat.com^
+|aw.sc-cdn.net^
+|gcs.sc-cdn.net^
+|gtq6.sct.sc-prod.net^
+|snapchat-proxy.appspot.com^
+|adsapi.snapchat.com^
+|asia-southeast1-gcp.api.snapchat.com^
+|aws-cf.api.snapchat.com^
+|euw.adserver.snapads.com^
+|ads-interfaces.sc-cdn.net^
+|ase.adserver.snapads.com^
+|use.adserver.snapads.com^
+|us-east1-aws.api.snapchat.com^
 
 # Minecraft related
 # https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
-0.0.0.0 auxilium.ftb.team
-0.0.0.0 bstats.org
-0.0.0.0 mcmc.dev
-0.0.0.0 mcstats.org
-0.0.0.0 metrics.shmeeb.net
-0.0.0.0 openeye.openmods.info
-0.0.0.0 api.directleaks.to
-0.0.0.0 metrics.directleaks.to
+|auxilium.ftb.team^
+|bstats.org^
+|mcmc.dev^
+||mcstats.org^
+||metrics.shmeeb.net^
+|openeye.openmods.info
+|api.directleaks.to
+|metrics.directleaks.to
 
 # Swiftkey
 # https://raw.githubusercontent.com/revenger1/pihole-blocklist/master/swiftkey.txt
-0.0.0.0 bibo.api.swiftkey.com
-0.0.0.0 jenson.api.swiftkey.com
-0.0.0.0 telemetry.api.swiftkey.com
-0.0.0.0 tigger-citadel.touchtype-fluency.com
+|bibo.api.swiftkey.com^
+|jenson.api.swiftkey.com^
+|telemetry.api.swiftkey.com^
+|tigger-citadel.touchtype-fluency.com^
 
-# Xiaomi
-0.0.0.0 sg.ots.io.mi.com
-0.0.0.0 sg.ot.io.mi.com
-0.0.0.0 sg.api.miwifi.com
+# Xiaomi Air Purifier
+|sg.ots.io.mi.com^
+|sg.ot.io.mi.com^
+
+# Xiaomi Router
+|sg.api.miwifi.com^
+
+# Vivo Malware?
+||n0qq3z.com^
+||66foh90o.com^
+||s4xx6.com^
