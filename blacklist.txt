@@ -49,7 +49,9 @@
 # Xiaomi Router
 |sg.api.miwifi.com^
 
-# Vivo Malware?
+# Malware
 ||n0qq3z.com^
 ||66foh90o.com^
 ||s4xx6.com^
+||mzpgfh.uhabq9.com^
+||os7lm.6kvses.com^
