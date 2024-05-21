@@ -1,11 +1,9 @@
 # Xiaomi
-0.0.0.0 sg.api.miwifi.com
+||sg.api.miwifi.com^
 
 # Line
-0.0.0.0 jp-col-tcp.nelo.linecorp.com
+||jp-col-tcp.nelo.linecorp.com^
 
 # Facebook/Meta
-0.0.0.0 graph-fallback.instagram.com
+||graph-fallback.instagram.com^
 
-# Misc
-0.0.0.0 ads11.textra.me
