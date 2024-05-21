@@ -47,6 +47,7 @@
 @@||xflight.xboxlive.com^
 @@||xkms.xbolive.com^
 @@||xsts.auth.xboxlive.com^
+@@||msedge.sf.dl.delivery.mp.microsoft.com^
 
 # Xiaomi related
 @@||account.xiaomi.com^
@@ -70,8 +71,8 @@
 # Mailing lists
 @@||link.futurism.com^
 @@||maillist-manage.com^
-@@||wkycj-cmpzourl.maillist-manage.com^$important
-@@||links.airvisual.com^$important
+@@||wkycj-cmpzourl.maillist-manage.com^
+@@||links.airvisual.com^
 
 # Misc
 # @@||sdk.iad-06.braze.com^$
