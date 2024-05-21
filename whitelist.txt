@@ -26,12 +26,15 @@
 
 # Useful Google
 @@||connectivitycheck.gstatic.com^
-@@||firebaseinstallations.googleapis.com^
 @@||fonts.gstatic.com^
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
 @@||userlocation.googleapis.com^
 @@||geller-pa.googleapis.com^$important
+
+# Google extras
+# @@||firebaseinstallations.googleapis.com^
+@@||semanticlocation-pa.googleapis.com^
 
 # Instagram images
 @@||i.instagram.com^
@@ -78,3 +81,4 @@
 
 # GoTo
 @@||app.gopay.co.id^
+@@||assets.tokopedia.net^
