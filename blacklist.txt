@@ -55,6 +55,7 @@
 ||s4xx6.com^
 ||uhabq9.com^
 ||6kvses.com^
+||birxpk.com^
 
 # Misc
 ||ads11.textra.me^
