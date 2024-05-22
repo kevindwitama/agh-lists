@@ -43,8 +43,8 @@
 |tigger-citadel.touchtype-fluency.com^
 
 # Xiaomi Air Purifier
-|sg.ots.io.mi.com^
-|sg.ot.io.mi.com^
+# |sg.ots.io.mi.com^
+# |sg.ot.io.mi.com^
 
 # Xiaomi Router
 # |sg.api.miwifi.com^
