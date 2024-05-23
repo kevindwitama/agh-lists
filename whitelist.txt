@@ -34,7 +34,7 @@
 
 # Google extras
 # @@||firebaseinstallations.googleapis.com^
-@@||semanticlocation-pa.googleapis.com^
+# @@||semanticlocation-pa.googleapis.com^
 
 # Instagram images
 @@||i.instagram.com^
@@ -82,3 +82,4 @@
 # GoTo
 @@||app.gopay.co.id^
 @@||assets.tokopedia.net^
+@@||ta.tokopedia.com^
