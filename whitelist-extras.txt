@@ -11,6 +11,8 @@
 @@||graph.facebook.com^
 @@||graph.facebook.net^
 @@||graph.instagram.com^
+@@||graph.whatsapp.net^
+@@||graph.whatsapp.com^
 @@||mqtt-mini.facebook.com^
 
 # Microsoft/Windows
