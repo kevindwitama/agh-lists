@@ -66,6 +66,21 @@
 @@||stream-android.pushbullet.com^
 @@||update.pushbullet.com^
 
+# GoTo
+@@||app.gopay.co.id^
+@@||assets.tokopedia.net^
+@@||ta.tokopedia.com^
+
+# Debian
+@@||deb.debian.org^$important
+
+# Mailing lists
+@@||pine.email-view.com^$important
+
+# DMM
+@@||al.dmm.com^$important
+@@||ip.affiliate.dmm.com^$important
+
 # Misc
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
@@ -78,8 +93,5 @@
 @@||cr.hotio.dev^
 # @@||sdk.iad-06.braze.com^
 # @@||betanews.com^
-
-# GoTo
-@@||app.gopay.co.id^
-@@||assets.tokopedia.net^
-@@||ta.tokopedia.com^
+@@||myim3banner.kloc.co^
+@@||neuter.mchang.xyz^$important
