@@ -75,6 +75,7 @@
 @@||deb.debian.org^$important
 
 # Mailing lists
+@@||email.mailgun.patreon.com^$important
 @@||pine.email-view.com^$important
 
 # DMM
