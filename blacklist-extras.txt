@@ -1,6 +1,6 @@
 # Xiaomi
-|sg.ots.io.mi.com^
-|sg.ot.io.mi.com^
+||sg.ots.io.mi.com^
+||sg.ot.io.mi.com^
 ||sg.api.miwifi.com^
 
 # Line
@@ -8,4 +8,7 @@
 
 # Facebook/Meta
 ||graph-fallback.instagram.com^
-
+# Unblock if you use Whatsapp avatar creator, helpcenter or video effects
+# https://github.com/hagezi/dns-blocklists/blob/main/share/facebook.txt
+||graph.whatsapp.com^
+||graph.whatsapp.net^
