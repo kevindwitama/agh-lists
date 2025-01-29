@@ -72,11 +72,11 @@
 @@||ta.tokopedia.com^
 
 # Debian
-@@||deb.debian.org^$important
+@@||debian.org^$important
 
 # Mailing lists
-@@||email.mailgun.patreon.com^$important
-@@||pine.email-view.com^$important
+@@|email.mailgun.patreon.com^$important
+@@|pine.email-view.com^$important
 
 # DMM
 @@||al.dmm.com^$important
