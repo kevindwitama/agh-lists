@@ -73,6 +73,8 @@
 
 # Debian
 @@||debian.org^$important
+@@||debian.map.fastly.net^$important
+@@||debian.map.fastlydns.net^$important
 
 # Mailing lists
 @@|email.mailgun.patreon.com^$important
