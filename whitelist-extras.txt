@@ -1,7 +1,6 @@
 # Google
 @@||analytics.google.com^
 @@||jnn-pa.googleapis.com^
-@@||semanticlocation-pa.googleapis.com^
 
 # Facebook
 @@||b-graph.facebook.com^

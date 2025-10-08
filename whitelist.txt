@@ -31,10 +31,10 @@
 @@||s.youtube.com^
 @@||userlocation.googleapis.com^
 @@||geller-pa.googleapis.com^$important
+@@||semanticlocation-pa.googleapis.com^
 
 # Google extras
 # @@||firebaseinstallations.googleapis.com^
-# @@||semanticlocation-pa.googleapis.com^
 
 # Instagram images
 @@||i.instagram.com^
