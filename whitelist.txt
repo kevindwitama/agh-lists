@@ -80,6 +80,10 @@
 @@|email.mailgun.patreon.com^$important
 @@|pine.email-view.com^$important
 @@||sender5.zohoinsights.com^$important
+@@||link.futurism.com^
+@@||maillist-manage.com^
+@@||wkycj-cmpzourl.maillist-manage.com^
+@@||links.airvisual.com^
 
 # DMM
 @@||al.dmm.com^$important
