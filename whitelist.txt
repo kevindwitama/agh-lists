@@ -110,6 +110,5 @@
 # @@||sdk.iad-06.braze.com^
 # @@||betanews.com^
 @@||neuter.mchang.xyz^$important
-# @@||salesiq.zoho.com^
 # @@||business-api.tiktok.com^$important
 @@||gridcoin.us^$important
