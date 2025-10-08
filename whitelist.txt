@@ -84,6 +84,14 @@
 @@||al.dmm.com^$important
 @@||ip.affiliate.dmm.com^$important
 
+# FFXIV
+@@||icy-veins.com^$important
+@@||garlandtools.org^$important
+
+# ISP
+@@||fm1.firstmedia.com^$important
+@@||myim3banner.kloc.co^
+
 # Misc
 @@||bm5cdn.azureedge.net^
 @@||cdn.ravenjs.com^
@@ -96,5 +104,4 @@
 @@||cr.hotio.dev^
 # @@||sdk.iad-06.braze.com^
 # @@||betanews.com^
-@@||myim3banner.kloc.co^
 @@||neuter.mchang.xyz^$important
