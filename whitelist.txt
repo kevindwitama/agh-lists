@@ -79,6 +79,7 @@
 # Mailing lists
 @@|email.mailgun.patreon.com^$important
 @@|pine.email-view.com^$important
+@@||sender5.zohoinsights.com^$important
 
 # DMM
 @@||al.dmm.com^$important
@@ -105,3 +106,5 @@
 # @@||sdk.iad-06.braze.com^
 # @@||betanews.com^
 @@||neuter.mchang.xyz^$important
+# @@||salesiq.zoho.com^
+# @@||business-api.tiktok.com^$important
